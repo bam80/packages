@@ -1,0 +1,7 @@
+/workspaces/packages/build/CMakeFiles/auc.dir
+/workspaces/packages/build/CMakeFiles/edit_cache.dir
+/workspaces/packages/build/CMakeFiles/rebuild_cache.dir
+/workspaces/packages/build/CMakeFiles/list_install_components.dir
+/workspaces/packages/build/CMakeFiles/install.dir
+/workspaces/packages/build/CMakeFiles/install/local.dir
+/workspaces/packages/build/CMakeFiles/install/strip.dir

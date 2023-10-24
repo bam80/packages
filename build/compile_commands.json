@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/packages/build",
+  "command": "/usr/bin/cc   -g   -Os -ggdb -Wall --std=gnu99 -Wmissing-declarations -o CMakeFiles/auc.dir/auc.c.o -c /workspaces/packages/utils/auc/src/auc.c",
+  "file": "/workspaces/packages/utils/auc/src/auc.c",
+  "output": "CMakeFiles/auc.dir/auc.c.o"
+}
+]

@@ -1,0 +1,5 @@
+{
+    "makefile.makeDirectory": "/builder",
+    "cmake.sourceDirectory": "/workspaces/packages/utils/auc/src",
+    "cmake.cmakePath": "/builder/staging_dir/host/bin/cmake"
+}

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/auc.dir/auc.c.o -o auc  -luci -lubox -lubus -luclient -lblobmsg_json /builder/staging_dir/host/lib/libjson-c.a -ldl 
